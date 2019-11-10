@@ -4,7 +4,7 @@
 
     <groupId>com.khanas.accelerator</groupId>
     <artifactId>jdbctemplate</artifactId>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
 
 
     <distributionManagement>
@@ -23,7 +23,8 @@
         <connection>scm:git:git://github.com/khanass19/jdbctemplate.git</connection>
         <developerConnection>scm:git:ssh://github.com:khanass19/jdbctemplate.git</developerConnection>
         <url>http://github.com/khanass19/jdbctemplate</url>
-    </scm>
+      <tag>HEAD</tag>
+  </scm>
 
     <build>
         <plugins>
