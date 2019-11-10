@@ -37,6 +37,7 @@
     <name>JdbcTemplate Accelerator Library</name>
     <description>This is a sample library for faster insert of rows into db using jdbcTemplate library
     </description>
+    <url>http://github.com/khanass/jdbctemplate</url>
 
     <licenses>
         <license>
@@ -105,6 +106,12 @@
             <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
+
+    <scm>
+        <connection>scm:git:git://github.com/khanass19/jdbctemplate.git</connection>
+        <developerConnection>scm:git:ssh://github.com:khanass19/jdbctemplate.git</developerConnection>
+        <url>http://github.com/khanass19/jdbctemplate</url>
+    </scm>
 
     <developers>
         <developer>
