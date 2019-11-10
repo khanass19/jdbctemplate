@@ -6,7 +6,7 @@
 
     <groupId>com.khanas.accelerator</groupId>
     <artifactId>jdbctemplate</artifactId>
-    <version>1.2</version>
+    <version>1.2-SNAPSHOT</version>
 
 
     <distributionManagement>
